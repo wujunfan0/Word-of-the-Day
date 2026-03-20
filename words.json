@@ -1,0 +1,427 @@
+[
+  {
+    "word": "cogent",
+    "definition": "clear, logical, and convincing",
+    "example": "The writer presented a cogent argument supported by strong evidence."
+  },
+  {
+    "word": "lucid",
+    "definition": "clear and easy to understand",
+    "example": "Her explanation was concise and lucid."
+  },
+  {
+    "word": "tenuous",
+    "definition": "weak or lacking strong support",
+    "example": "The connection between the two ideas was tenuous."
+  },
+  {
+    "word": "robust",
+    "definition": "strong and effective",
+    "example": "The study provides robust evidence for the claim."
+  },
+  {
+    "word": "pertinent",
+    "definition": "relevant to the topic",
+    "example": "He included only pertinent information in the essay."
+  },
+  {
+    "word": "salient",
+    "definition": "most noticeable or important",
+    "example": "The most salient point was highlighted in the conclusion."
+  },
+  {
+    "word": "ubiquitous",
+    "definition": "present everywhere",
+    "example": "Technology has become ubiquitous in modern society."
+  },
+  {
+    "word": "pragmatic",
+    "definition": "focused on practical results",
+    "example": "She took a pragmatic approach to solving the issue."
+  },
+  {
+    "word": "cohesive",
+    "definition": "forming a united whole",
+    "example": "The paragraph is cohesive and well-organized."
+  },
+  {
+    "word": "meticulous",
+    "definition": "very careful and detailed",
+    "example": "The research was conducted in a meticulous manner."
+  },
+  {
+    "word": "succinct",
+    "definition": "brief but clear",
+    "example": "His answer was succinct yet informative."
+  },
+  {
+    "word": "ambivalent",
+    "definition": "having mixed feelings",
+    "example": "The author appears ambivalent about the issue."
+  },
+  {
+    "word": "paradigm",
+    "definition": "a typical example or model",
+    "example": "This theory represents a new paradigm in science."
+  },
+  {
+    "word": "inherent",
+    "definition": "existing as a natural part",
+    "example": "Risk is inherent in any investment."
+  },
+  {
+    "word": "arbitrary",
+    "definition": "based on random choice, not reason",
+    "example": "The decision seemed arbitrary."
+  },
+  {
+    "word": "discern",
+    "definition": "to recognize or understand something",
+    "example": "It is difficult to discern the true meaning."
+  },
+  {
+    "word": "mitigate",
+    "definition": "to make something less severe",
+    "example": "Policies were introduced to mitigate the effects."
+  },
+  {
+    "word": "exacerbate",
+    "definition": "to make a problem worse",
+    "example": "The policy may exacerbate the situation."
+  },
+  {
+    "word": "delineate",
+    "definition": "to describe or explain clearly",
+    "example": "The essay clearly delineates the main argument."
+  },
+  {
+    "word": "juxtapose",
+    "definition": "to place things side by side for comparison",
+    "example": "The author juxtaposes two contrasting ideas."
+  },
+  {
+    "word": "elucidate",
+    "definition": "to make something clear",
+    "example": "The teacher helped elucidate the concept."
+  },
+  {
+    "word": "synthesize",
+    "definition": "to combine ideas into a whole",
+    "example": "Students must synthesize multiple sources."
+  },
+  {
+    "word": "substantive",
+    "definition": "meaningful and important",
+    "example": "The discussion included substantive points."
+  },
+  {
+    "word": "pervasive",
+    "definition": "spreading widely throughout",
+    "example": "The issue is pervasive across many fields."
+  },
+  {
+    "word": "construe",
+    "definition": "to interpret or understand",
+    "example": "The statement could be construed in different ways."
+  },
+  {
+    "word": "candid",
+    "definition": "honest and straightforward",
+    "example": "The author provides a candid assessment of the issue."
+  },
+  {
+    "word": "convoluted",
+    "definition": "complex and difficult to follow",
+    "example": "The explanation was overly convoluted."
+  },
+  {
+    "word": "concise",
+    "definition": "brief but clear and complete",
+    "example": "Her argument was concise and effective."
+  },
+  {
+    "word": "contentious",
+    "definition": "likely to cause disagreement",
+    "example": "The topic remains highly contentious."
+  },
+  {
+    "word": "credible",
+    "definition": "believable and trustworthy",
+    "example": "The source is credible and well-respected."
+  },
+  {
+    "word": "definitive",
+    "definition": "final and conclusive",
+    "example": "The study offers a definitive answer."
+  },
+  {
+    "word": "dubious",
+    "definition": "doubtful or questionable",
+    "example": "The claim appears dubious."
+  },
+  {
+    "word": "empirical",
+    "definition": "based on observation or data",
+    "example": "The argument relies on empirical evidence."
+  },
+  {
+    "word": "equivocal",
+    "definition": "unclear or open to multiple meanings",
+    "example": "The statement was equivocal and confusing."
+  },
+  {
+    "word": "feasible",
+    "definition": "possible and practical",
+    "example": "The solution is both feasible and efficient."
+  },
+  {
+    "word": "impartial",
+    "definition": "fair and unbiased",
+    "example": "The analysis remains impartial throughout."
+  },
+  {
+    "word": "inconclusive",
+    "definition": "not leading to a clear result",
+    "example": "The findings were inconclusive."
+  },
+  {
+    "word": "intrinsic",
+    "definition": "belonging naturally to something",
+    "example": "Risk is intrinsic to innovation."
+  },
+  {
+    "word": "ostensible",
+    "definition": "appearing to be true but not necessarily so",
+    "example": "The ostensible reason was unclear."
+  },
+  {
+    "word": "perceptive",
+    "definition": "having deep understanding",
+    "example": "Her analysis was highly perceptive."
+  },
+  {
+    "word": "redundant",
+    "definition": "unnecessary or repetitive",
+    "example": "Some points in the essay were redundant."
+  },
+  {
+    "word": "sporadic",
+    "definition": "occurring irregularly",
+    "example": "The results were sporadic and inconsistent."
+  },
+  {
+    "word": "stringent",
+    "definition": "strict and demanding",
+    "example": "The criteria were stringent."
+  },
+  {
+    "word": "viable",
+    "definition": "capable of working successfully",
+    "example": "This is a viable solution."
+  },
+  {
+    "word": "adept",
+    "definition": "highly skilled at something",
+    "example": "He is adept at constructing arguments."
+  },
+  {
+    "word": "bolster",
+    "definition": "to support or strengthen",
+    "example": "The evidence bolsters the main claim."
+  },
+  {
+    "word": "corroborate",
+    "definition": "to confirm with evidence",
+    "example": "The data corroborates the findings."
+  },
+  {
+    "word": "disparity",
+    "definition": "a significant difference",
+    "example": "There is a clear disparity between the results."
+  },
+  {
+    "word": "framework",
+    "definition": "a structure for organizing ideas",
+    "example": "The essay follows a logical framework."
+  },
+  {
+    "word": "implication",
+    "definition": "a possible result or effect",
+    "example": "The implications of the study are significant."
+  },
+  {
+    "word": "precedent",
+    "definition": "an earlier example used as a guide",
+    "example": "This case sets an important precedent."
+  },
+  {
+    "word": "rationale",
+    "definition": "the reasoning behind something",
+    "example": "The rationale behind the decision is clear."
+  },
+  {
+    "word": "scrutinize",
+    "definition": "to examine closely",
+    "example": "The results were carefully scrutinized."
+  },
+  {
+    "word": "sustain",
+    "definition": "to support over time",
+    "example": "The argument is sustained throughout the essay."
+  },
+  {
+    "word": "validity",
+    "definition": "the quality of being logically sound",
+    "example": "The validity of the claim was questioned."
+  },
+  {
+    "word": "astute",
+    "definition": "having sharp judgment or insight",
+    "example": "The author makes an astute observation about the issue."
+  },
+  {
+    "word": "cursory",
+    "definition": "done quickly without attention to detail",
+    "example": "The analysis was too cursory to be convincing."
+  },
+  {
+    "word": "daunting",
+    "definition": "intimidating or overwhelming",
+    "example": "The task initially seemed daunting."
+  },
+  {
+    "word": "eloquent",
+    "definition": "fluent and persuasive in speaking or writing",
+    "example": "The essay presents an eloquent argument."
+  },
+  {
+    "word": "erroneous",
+    "definition": "incorrect or mistaken",
+    "example": "The conclusion was based on erroneous assumptions."
+  },
+  {
+    "word": "explicit",
+    "definition": "clearly stated and detailed",
+    "example": "The instructions were explicit and easy to follow."
+  },
+  {
+    "word": "implicit",
+    "definition": "implied but not directly stated",
+    "example": "The message was implicit in the text."
+  },
+  {
+    "word": "formidable",
+    "definition": "very powerful or difficult to overcome",
+    "example": "The challenge proved to be formidable."
+  },
+  {
+    "word": "fundamental",
+    "definition": "forming the basic foundation",
+    "example": "This concept is fundamental to understanding the topic."
+  },
+  {
+    "word": "holistic",
+    "definition": "considering the whole rather than parts",
+    "example": "The approach was holistic and well-rounded."
+  },
+  {
+    "word": "imminent",
+    "definition": "about to happen",
+    "example": "A change in policy seemed imminent."
+  },
+  {
+    "word": "indispensable",
+    "definition": "absolutely necessary",
+    "example": "Critical thinking is indispensable in analysis."
+  },
+  {
+    "word": "inevitable",
+    "definition": "certain to happen",
+    "example": "Failure was inevitable without preparation."
+  },
+  {
+    "word": "intricate",
+    "definition": "very detailed and complex",
+    "example": "The system has an intricate design."
+  },
+  {
+    "word": "notion",
+    "definition": "an idea or belief",
+    "example": "The notion was widely accepted."
+  },
+  {
+    "word": "objective",
+    "definition": "not influenced by personal feelings",
+    "example": "The analysis remained objective."
+  },
+  {
+    "word": "paramount",
+    "definition": "more important than anything else",
+    "example": "Accuracy is paramount in scientific research."
+  },
+  {
+    "word": "prevalent",
+    "definition": "commonly occurring",
+    "example": "The issue is prevalent in many societies."
+  },
+  {
+    "word": "profound",
+    "definition": "deep or meaningful",
+    "example": "The study had a profound impact."
+  },
+  {
+    "word": "resilient",
+    "definition": "able to recover quickly",
+    "example": "The system proved to be resilient."
+  },
+  {
+    "word": "scrupulous",
+    "definition": "very careful and precise",
+    "example": "The research was conducted with scrupulous detail."
+  },
+  {
+    "word": "skeptical",
+    "definition": "doubting or questioning",
+    "example": "The reviewer remained skeptical of the results."
+  },
+  {
+    "word": "subsequent",
+    "definition": "coming after something",
+    "example": "Subsequent studies confirmed the findings."
+  },
+  {
+    "word": "tangible",
+    "definition": "real and measurable",
+    "example": "The results had tangible benefits."
+  },
+  {
+    "word": "tentative",
+    "definition": "not certain or final",
+    "example": "The conclusion remains tentative."
+  },
+  {
+    "word": "theoretical",
+    "definition": "based on ideas rather than practical use",
+    "example": "The explanation is largely theoretical."
+  },
+  {
+    "word": "underlying",
+    "definition": "forming the base or foundation",
+    "example": "The underlying issue was not addressed."
+  },
+  {
+    "word": "unprecedented",
+    "definition": "never done before",
+    "example": "The situation was unprecedented."
+  },
+  {
+    "word": "versatile",
+    "definition": "able to adapt to many uses",
+    "example": "The method is highly versatile."
+  },
+  {
+    "word": "vivid",
+    "definition": "clear and detailed in description",
+    "example": "The author provides a vivid account."
+  }
+]
